@@ -10,21 +10,21 @@ Built as part of **CS50x 2025**.
 
 ---
 
-## 🚀 Features
-- 🔑 Secure user authentication  
-- 💰 Virtual portfolio with cash balance  
-- 📊 Real-time stock quotes via IEX API  
-- 🛒 Buy & sell stocks easily  
-- 🕒 Transaction history with timestamps  
+##  Features
+-  Secure user authentication  
+-  Virtual portfolio with cash balance  
+-  Real-time stock quotes via IEX API  
+-  Buy & sell stocks easily  
+-  Transaction history with timestamps  
 
 ---
 
-## 📂 Tech Stack
+##  Tech Stack
 - **Backend:** Python, Flask, SQLite  
 - **Frontend:** HTML, CSS, Jinja2  
 - **API:** IEX Cloud  
 
 ---
 
-## 📜 License
+##  License
 This project is licensed under the **MIT License**.  
