@@ -1,4 +1,4 @@
-# 💲 Finance
+# 🧧 Finance
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)  [![Flask](https://img.shields.io/badge/Flask-2.0+-black.svg)](https://flask.palletsprojects.com/) [![SQLite](https://img.shields.io/badge/SQLite-DB-blue.svg)](https://www.sqlite.org/)   [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
